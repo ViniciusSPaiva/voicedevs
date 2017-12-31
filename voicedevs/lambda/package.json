@@ -1,0 +1,9 @@
+{
+  "author": "MerryOscar",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "check-node-version": "^2.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
